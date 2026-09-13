@@ -2,7 +2,7 @@
 
 Two columns of values:
 
-- **Kon & Labadin (2019)**:, *Simulating Dengue: Comparison
+- **Kon & Labadin (2019)**: *Simulating Dengue: Comparison
   of Observed and Predicted Cases from Generic Reaction-Diffusion Model...*,
   MATEMATIKA 35(3):309–330. Table 1 (temporal fit, Kuching column) and Table 2.
   Time unit = **week**. These are used verbatim in notebook 02.
