@@ -2,11 +2,11 @@
 
 Two columns of values:
 
-- **Kon & Labadin (2019)** — the "Taufiq document", *Simulating Dengue: Comparison
+- **Kon & Labadin (2019)**:, *Simulating Dengue: Comparison
   of Observed and Predicted Cases from Generic Reaction-Diffusion Model...*,
   MATEMATIKA 35(3):309–330. Table 1 (temporal fit, Kuching column) and Table 2.
   Time unit = **week**. These are used verbatim in notebook 02.
-- **Biological / Malaysia** — literature ranges and Malaysia-specific demography,
+- **Biological / Malaysia**:literature ranges and Malaysia-specific demography,
   time unit = **day**. Used in notebooks 01, 03, 04, 05.
 
 ## Vector–host transmission
